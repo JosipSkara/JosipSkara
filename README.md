@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JosipSkara
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C and Dart
